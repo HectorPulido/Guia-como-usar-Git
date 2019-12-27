@@ -1,4 +1,4 @@
-# Como usar git La guia completa
+# COMO USAR GIT: TUTORIAL COMPLETO
 ## FLUJO NORMAL
 1. Primero usar el comando 
 ">>git add ..." donde los ... representan los archivos a subir
