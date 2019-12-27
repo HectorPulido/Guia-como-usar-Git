@@ -1,4 +1,5 @@
-## COMO USAR GIT TUTORIAL COMPLETO
+# COMO USAR GIT TUTORIAL COMPLETO
+## FLUJO NORMAL
 1. Primero usar el comando 
 ">>git add ..." donde los ... representan los archivos a subir
 2. Crear el commit con el comando 
