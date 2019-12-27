@@ -1,4 +1,6 @@
 # COMO USAR GIT: TUTORIAL COMPLETO
+Los programadores tenemos una relacion amor odio con git, sabemos que es super util pero no sabemos sacar todo el provecho que la herramienta ofrece, asi que si nos obligan solemos usarlo de la forma mas insulsa y aburrida posible...
+
 ## GLOSARIO
 * <b>ORIGIN:</b> La nube, en nuestro caso el repositorio en github, tambien puede estar en gitlab o bitbucket.
 * <b>COMMIT:</b> Punto en el tiempo al cual podemos retroceder de manera sencilla.
@@ -25,3 +27,10 @@
 * Recordad siempre hacer pull antes de crear una rama y crear siempre la rama desde master, no desde otra rama a menos que sepas lo que estas haciendo.
 * Las ramas contienen todos los commits de la rama desde la que fue creada hasta el momento de su creacion.
 * Para crear una rama y de inmediato moverte a ella en un solo comando puedes utilizar el comando de ">>git checkout -b '...'" donde ... es el nombre de la rama.
+
+## TODO: 
+1. Tema de conflictos
+2. Video de youtube
+3. Solucion de erratas
+4. Como instalar git 
+5. Traduccion al ingles
