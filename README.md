@@ -1,4 +1,6 @@
 # COMO USAR GIT: TUTORIAL COMPLETO
+[![Video sobre como funciona git](https://img.youtube.com/vi/rJRq7U95o8s/0.jpg)](https://www.youtube.com/watch?v=rJRq7U95o8s)
+
 Los programadores tenemos una relacion amor odio con git, sabemos que es super util pero no sabemos sacar todo el provecho que la herramienta ofrece, asi que si nos obligan solemos usarlo de la forma mas insulsa y aburrida posible...
 
 ## GLOSARIO
@@ -34,7 +36,7 @@ https://brew.sh/ </br>
 2. Crear el commit con el comando 
 ">>git commit -m '...'" donde los ... representan el nombre del commit. 
 3. Subir el commit con el comando 
-">>git push origin master" 
+">>git push origin ..." donde los ... representan el nombre de la rama donde estás, inicialmente master. 
 ## RAMAS
 Se trata de un espacio seguro en donde podemos escribir codigo sin afectar a la rama principal. git tiene forma de Arbol, siendo la rama principal o tronco la <b>rama master</b> cada rama puede ser ramificada en otras ramas que luego pueden juntarse. Cada rama tiene los mismos commits que su rama padre hasta el momento de crearla, luego de eso los commits no se comparten entre ramas a menos que se haga un merge o un pull request.
 * Para ver nuestras ramas usamos el comando
@@ -78,5 +80,5 @@ Se ve claramente la separacion entre los dos cambios. </br>
 * ~~Tema de conflictos~~
 * ~~Como instalar git~~
 * Solucion de erratas
-* Video de youtube
+* ~~Video de youtube~~
 * Traduccion al ingles
